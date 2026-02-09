@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Artur — Aspiring Data Engineer
 
 📍 Based in Russia
