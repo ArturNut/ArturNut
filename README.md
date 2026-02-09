@@ -9,7 +9,7 @@
 
 - 💼 Transitioning into **Data Engineering** with a focus on **reliable, efficient data pipelines**
 - 🌱 Currently learning: **Airflow, AWS (S3, Glue), Docker, and dbt**
-- 🇨🇦 Open to opportunities!
+- 🌱 Open to opportunities!
 
 ## 🛠️ Tech Stack
 
